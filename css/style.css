@@ -92,18 +92,21 @@ img, video, audio {
 
 .col-1 {
   float: left;
-  width: 32%
-  background: #ccc;
+  width: 66%
+  margin: 1%;
 }
 
 .col-2 {
-  float: left;
-  width: 66%
-  background: #ccc;
+  float: right;
+  width: 32%
+  margin: 1%;
 }
 
 .col-3 {
-  background: #ccc;
+  float: left;
+  left: 0px;
+  with: 32%
+  margin-right: 1%
 }
 
 .clearfix:after {
